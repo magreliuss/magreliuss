@@ -29,7 +29,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media.giphy.com/media/OnnUZxcHsbBN6/giphy.gif?cid=ecf05e470lr1e5i1ohobxu2aedd5keaz38zyhnkb5pttn8n8&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
@@ -64,5 +64,3 @@
 <img src="https://raw.githubusercontent.com/magreliuss/magreliuss/output/snake.svg" alt="Snake animation" />
 
 ###
-
-![Atividades Recentes](https://github-readme-activity-graph.cyclic.app/graph?magreliuss&theme=github)
