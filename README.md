@@ -20,3 +20,5 @@
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-FE0909?style=for-the-badge&logo=typeorm&logoColor=white)
+
+![Atividades Recentes](https://github-readme-activity-graph.cyclic.app/graph?username=seu-usuario&theme=github)
